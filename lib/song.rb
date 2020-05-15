@@ -61,7 +61,7 @@ class Song
     @@all << song
     song
   end
-    
+
 
 
 
